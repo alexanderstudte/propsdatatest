@@ -1,5 +1,7 @@
 # propsdatatest
 
+# This repo is linked to the following issue in vue-test-utils: [github.com/vuejs/vue-test-utils/issues/1241](https://github.com/vuejs/vue-test-utils/issues/1241)
+
 ## Project setup
 ```
 npm install
